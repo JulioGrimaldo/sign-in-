@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837589284861",
+    "project_id": "identify-c8d3f",
+    "storage_bucket": "identify-c8d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837589284861:android:f8acb05c20e84e06cd4b94",
+        "android_client_info": {
+          "package_name": "com.example.googleidentify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dfHbBWaHumuEY8ikWqsGGEZtnMOsZ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Identify</string>
+
+    <string name="default_web_client_id" translatable="false">837589284861-83798v1tko8ihsvgga56a2bj52it0fla.apps.googleusercontent.com</string>
+</resources>
